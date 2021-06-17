@@ -12,7 +12,7 @@
 # 1 背景介绍
 
 ## 1.1 使用说明：
-若只是想把图片变为沙画效果，直接调到“**4模型使用**” 即可。若要细纠迁移训练过程，可继续阅读。
+若只是想把图片变为沙画效果，直接调到“**4模型使用**” 即可。model文件夹中的模型文件较大，暂时烦请到Aistudio的工程上下载，后续再给出链接。若要细纠迁移训练过程，可继续阅读。
 
 Aistudio项目地址：[https://aistudio.baidu.com/aistudio/projectdetail/2012947](https://aistudio.baidu.com/aistudio/projectdetail/2012947)
 
